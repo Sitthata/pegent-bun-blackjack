@@ -1,6 +1,6 @@
 {
   "name": "pegent-bun-blackjack",
-  "module": "index.ts",
+  "module": "index.js",
   "type": "module",
   "devDependencies": {
     "@types/bun": "latest"
